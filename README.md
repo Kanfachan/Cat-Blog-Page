@@ -37,7 +37,7 @@ The purpose of this HTML project is to learn and better understand HTML by creat
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Cat-Blog-Page/
 
 ## GitHub Repository Location (HTTPS)
 
